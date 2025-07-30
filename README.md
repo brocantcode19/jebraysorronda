@@ -33,9 +33,8 @@ Currently growing as a Junior Developer by building personal and academic projec
 
 ## 📫 Let’s Connect
 
-- 🔗 [Portfolio](#) <!-- replace # with your site link if available -->
 - 🐱 [GitHub](https://github.com/jebsorronda)
-- 📧 Email: your.email@example.com <!-- replace with your email -->
+- 📧 Email:sorrondajebray2005@gmail.com 
 
 ---
 
