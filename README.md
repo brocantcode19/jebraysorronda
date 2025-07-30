@@ -33,7 +33,7 @@ Currently growing as a Junior Developer by building personal and academic projec
 
 ## 📫 Let’s Connect
 
-- 🐱 [GitHub](https://github.com/jebsorronda)
+- 🐱 [GitHub](https://github.com/brocantcode19)
 - 📧 Email:sorrondajebray2005@gmail.com 
 
 ---
